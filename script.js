@@ -1,3 +1,4 @@
+console.log("\n\n\n\n\n\n\n\nInjected\n\n\n\n\n\n\n")
 
 chrome.runtime.onMessage.addListener(
     function ({newText}, sender, sendResponse) {
