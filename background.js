@@ -2,7 +2,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
         id: "change-text",
-        title: "Change",
+        title: "Change Language",
         contexts: ['editable'] // show only when selection over editable field 
     });
 });
