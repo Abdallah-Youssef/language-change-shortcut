@@ -1,6 +1,6 @@
 # language-change-shortcut
 
-Chrome extenstion to quickly change the language of some text you wrote in some other alphabet accidentaly.
+Chrome extenstion to quickly change the language of some text you wrote in some other alphabet accidentally.
 
 # How to install
 
